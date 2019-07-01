@@ -1,0 +1,24 @@
+{
+  "name": "sfdx-travisci",
+  "version": "1.0.0",
+  "description": "For a fully guided walk through of setting up and configuring this sample, see the [Continuous Integration Using Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_travis_ci) Trailhead module.",
+  "main": "index.js",
+  "dependencies": {
+    "ci": "^1.0.0",
+    "travis": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rollaflip/sfdx-travisci.git"
+  },
+  "author": "Ian K <iknepper@hotmail.com> (www.github.com/rollaflip)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rollaflip/sfdx-travisci/issues"
+  },
+  "homepage": "https://github.com/rollaflip/sfdx-travisci#readme"
+}
